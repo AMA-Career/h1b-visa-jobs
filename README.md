@@ -11,17 +11,63 @@ While this repository showcases a selection of great tips, for a comprehensive a
 
 <p align="center">🤖 <a href="https://amacareer.ai">Your personal AI job twin, working 24/7 to get you hired</a> 🤖</p>
 
-## 📋 Latest H1B Visa Sponsored Jobs
-*Last Updated: 2025-08-04*
+
+## 🔍 Browse H1B Sponsorship Jobs by Positions
+
+- 💻 [Software Engineer Jobs](#software-engineer-jobs)
+- 🧬 [Data Scientist Jobs](#data-scientist-jobs)
+- 📊 [Data Analyst Jobs](#data-analyst-jobs)
+- 🤖 [Machine Learning Jobs](#machine-learning-jobs)
+- 📋 [Product Manager Jobs](#product-manager-jobs)
+
+---
+
+## 💻 Software Engineer Jobs
 
 | Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
 |----------|----------|----------|----------|----------|----------|----------|
-| iOS Developer | 2025-01-14 | Apple | H1B Sponsorship | [Apply](https://amacareer.ai/) | Mid-Level | Full-Time |
-| Machine Learning Engineer | 2025-01-13 | Meta | H1B Sponsorship | [Apply](https://amacareer.ai/) | Senior | Full-Time |
-| Data Scientist - Autopilot | 2025-01-11 | Tesla | H1B Sponsorship | [Apply](https://amacareer.ai/) | Senior | Full-Time |
-| GPU Software Engineer | 2025-01-10 | NVIDIA | H1B Sponsorship | [Apply](https://amacareer.ai/) | Senior | Full-Time |
-| DevOps Engineer | 2025-01-07 | GitLab | H1B Sponsorship | [Apply](https://amacareer.ai/) | Senior | Full-Time |
+| iOS Developer | 2025-01-14 | Apple | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Mid-Level | Full-Time |
+| Machine Learning Engineer | 2025-01-13 | Meta | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
+| GPU Software Engineer | 2025-01-10 | NVIDIA | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
+| DevOps Engineer | 2025-01-07 | GitLab | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
 
+*4 H1B sponsored software engineer jobs available*
+
+---
+
+## 🧬 Data Scientist Jobs
+
+| Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
+|----------|----------|----------|----------|----------|----------|----------|
+| Data Scientist - Autopilot | 2025-01-11 | Tesla | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
+
+*1 H1B sponsored data scientist jobs available*
+
+---
+
+## 📊 Data Analyst Jobs
+
+No H1B sponsored positions available at this time. Check back soon for new opportunities!
+
+*0 H1B sponsored data analyst jobs available*
+
+---
+
+## 🤖 Machine Learning Jobs
+
+No H1B sponsored positions available at this time. Check back soon for new opportunities!
+
+*0 H1B sponsored machine learning jobs available*
+
+---
+
+## 📋 Product Manager Jobs
+
+No H1B sponsored positions available at this time. Check back soon for new opportunities!
+
+*0 H1B sponsored product manager jobs available*
+
+---
 
 
 ## 🔗 Quick Links
