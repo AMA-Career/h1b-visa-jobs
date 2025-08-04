@@ -26,12 +26,9 @@ While this repository showcases a selection of great tips, for a comprehensive a
 
 | Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
 |----------|----------|----------|----------|----------|----------|----------|
-| iOS Developer | 2025-01-14 | Apple | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Mid-Level | Full-Time |
-| Machine Learning Engineer | 2025-01-13 | Meta | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
-| GPU Software Engineer | 2025-01-10 | NVIDIA | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
-| DevOps Engineer | 2025-01-07 | GitLab | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
 
-*4 H1B sponsored software engineer jobs available*
+
+
 
 ---
 
@@ -39,33 +36,36 @@ While this repository showcases a selection of great tips, for a comprehensive a
 
 | Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
 |----------|----------|----------|----------|----------|----------|----------|
-| Data Scientist - Autopilot | 2025-01-11 | Tesla | H1B Sponsorship | [Apply with AMA Career](https://amacareer.ai/) | Senior | Full-Time |
 
-*1 H1B sponsored data scientist jobs available*
+
+
 
 ---
 
 ## 📊 Data Analyst Jobs
 
-No H1B sponsored positions available at this time. Check back soon for new opportunities!
+| Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
+|----------|----------|----------|----------|----------|----------|----------|
 
-*0 H1B sponsored data analyst jobs available*
+
 
 ---
 
 ## 🤖 Machine Learning Jobs
 
-No H1B sponsored positions available at this time. Check back soon for new opportunities!
+| Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
+|----------|----------|----------|----------|----------|----------|----------|
 
-*0 H1B sponsored machine learning jobs available*
+
 
 ---
 
 ## 📋 Product Manager Jobs
 
-No H1B sponsored positions available at this time. Check back soon for new opportunities!
+| Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
+|----------|----------|----------|----------|----------|----------|----------|
 
-*0 H1B sponsored product manager jobs available*
+
 
 ---
 
