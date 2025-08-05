@@ -17,7 +17,7 @@ While this repository showcases a selection of great tips, for a comprehensive a
 - 💻 [Software Engineer Jobs](#software-engineer-jobs)
 - 🧬 [Data Scientist Jobs](#data-scientist-jobs)
 - 📊 [Data Analyst Jobs](#data-analyst-jobs)
-- 🤖 [Machine Learning Jobs](#machine-learning-jobs)
+- 🤖 [Machine Learning Engineer Jobs](#machine-learning-engineer-jobs)
 - 📋 [Product Manager Jobs](#product-manager-jobs)
 
 ---
@@ -51,7 +51,7 @@ While this repository showcases a selection of great tips, for a comprehensive a
 
 ---
 
-## 🤖 Machine Learning Jobs
+## 🤖 Machine Learning Engineer Jobs
 
 | Role | Post Date | Company Name | Sponsorship Status | Apply | Seniority Level | Employment Type |
 |----------|----------|----------|----------|----------|----------|----------|
